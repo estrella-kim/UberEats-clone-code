@@ -1,3 +1,6 @@
+# IDE
+.idea/**.xml
+
 # Logs
 logs
 *.log
